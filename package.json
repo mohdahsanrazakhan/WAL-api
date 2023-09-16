@@ -1,0 +1,18 @@
+{
+  "name": "wal-api",
+  "version": "1.0.0",
+  "description": "This is a WAL api, which contain arm wrestlers infomation.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "md_mark",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.12.1"
+  }
+}

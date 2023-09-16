@@ -1,0 +1,40 @@
+# dependencies
+node_modules/
+
+# npm and yarn lock file
+package-lock.json
+yarn.lock
+
+# Environment Variables
+.env
+
+# Build or Output Directories
+build/
+dist/
+out/
+
+# Logs and Temporary Files
+*.log
+*.log.*
+.*.swp
+
+# IDE/Editor Files
+.vscode/
+.idea/
+.DS_Store
+
+# User-Specific Files
+.npmrc
+.yarnrc
+
+# Dependency-specific Files
+# Example: Jest snapshots
+__snapshots__/
+
+# Test Output 
+coverage/
+
+# IDE/Editor Configuration
+.editorconfig
+.eslintrc
+.prettierrc
