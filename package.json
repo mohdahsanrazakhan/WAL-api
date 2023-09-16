@@ -4,7 +4,9 @@
   "description": "This is a WAL api, which contain arm wrestlers infomation.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js", 
+    "build": "npm install && npm run build"
   },
   "author": "md_mark",
   "license": "ISC",
